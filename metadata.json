@@ -1,0 +1,7 @@
+{
+  "name": "ProPortret AI",
+  "description": "Transform your casual photos into professional, high-quality corporate headshots for resumes and LinkedIn profiles using advanced AI generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
