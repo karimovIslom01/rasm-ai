@@ -1,7 +1,21 @@
 {
-  "name": "proportret-ai",
-  "private": true,
-  "version": "0.0.0",
+  "name": "rasm-ai",
+  "version": "0.1.0",
+  "description": "Open-source Uzbek-language AI app that turns a casual photo into a professional studio portrait",
+  "license": "MIT",
+  "author": "Islom Karimov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karimovIslom01/rasm-ai.git"
+  },
+  "keywords": [
+    "ai",
+    "portrait",
+    "uzbek",
+    "react",
+    "gemini",
+    "headshot"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",
